@@ -19,7 +19,7 @@ This repository contains a project that demonstrates how to scrape data from web
      - Estimating the number of terrestrial days in a Martian year.
    - Creates visualizations using Matplotlib (bar charts and line graphs) to support the discoveries.
 
-## Repository Contents
+## Repository Contents - Mars Notebooks
 
 - **`part_1_mars_news.ipynb`**  
   A Jupyter Notebook that uses Splinter and Beautiful Soup to:
